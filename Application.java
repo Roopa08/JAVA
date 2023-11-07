@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CafeApplication { //application for cafe
+class CafeApplication { //application for cafe in java
 
 	public static void main(String[] args) {
 				Coffeeone obj=new Coffeeone();
